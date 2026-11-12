@@ -45,7 +45,7 @@ git push
 
 1. [Створення репозиторію та робота з ним](init/README.md) ✅
 2. [Перша програма на Python та оформлення звіту](1_python_program/README.md) ✅
-3. Лабораторна робота №3
+3. [Основи програмування на Python](2_python_basics/README.md) ✅
 4. Лабораторна робота №4
 5. Лабораторна робота №5
 
@@ -56,11 +56,16 @@ git push
 ├── README.md            # головна сторінка (цей файл)
 ├── init/
 │   └── README.md        # робота 1: експерименти з Markdown
-└── 1_python_program/
-    ├── README.md        # робота 2: звіт
-    ├── my_first_app.py
-    ├── my_first_app.ipynb
-    ├── ai_program.py
+├── 1_python_program/
+│   ├── README.md        # робота 2: звіт
+│   ├── my_first_app.py
+│   ├── my_first_app.ipynb
+│   ├── ai_program.py
+│   └── pictures/        # скріншоти
+└── 2_python_basics/
+    ├── README.md        # робота 3: звіт
+    ├── basics.ipynb     # власні приклади
+    ├── lectures/        # матеріали з лекцій
     └── pictures/        # скріншоти
 ```
 
