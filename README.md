@@ -46,7 +46,7 @@ git push
 1. [Створення репозиторію та робота з ним](init/README.md) ✅
 2. [Перша програма на Python та оформлення звіту](1_python_program/README.md) ✅
 3. [Основи програмування на Python](2_python_basics/README.md) ✅
-4. Лабораторна робота №4
+4. [Знайомство з ООП](oop_intro/README.md) ✅
 5. Лабораторна робота №5
 
 ## 🗂️ Структура репозиторію
@@ -62,10 +62,17 @@ git push
 │   ├── my_first_app.ipynb
 │   ├── ai_program.py
 │   └── pictures/        # скріншоти
-└── 2_python_basics/
-    ├── README.md        # робота 3: звіт
-    ├── basics.ipynb     # власні приклади
-    ├── lectures/        # матеріали з лекцій
+├── 2_python_basics/
+│   ├── README.md        # робота 3: звіт
+│   ├── basics.ipynb     # власні приклади
+│   ├── lectures/        # матеріали з лекцій
+│   └── pictures/        # скріншоти
+├── constants_practice/  # практичне завдання 52: вбудовані константи
+└── oop_intro/
+    ├── README.md        # робота 4: звіт
+    ├── oop_intro.py     # клас MyName
+    ├── oop_intro.ipynb  # клас MyName + приклади з лекції
+    ├── users.txt
     └── pictures/        # скріншоти
 ```
 
